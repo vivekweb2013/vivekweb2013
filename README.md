@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Golang**
 - 🤔 I’m looking for help with [GitNoter Issues](https://github.com/vivekweb2013/gitnoter/issues)
 - 💬 Ask me about **Golang, ReactJS, Docker, Kubernetes, Helm**
-- 📫 How to reach me: https://twitter.com/vivekweb2013
+- 📫 How to reach me: vivekweb2013@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I paint at times!
 
