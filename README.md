@@ -3,7 +3,7 @@
 
 Skills: GOLANG / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on [GitNoter](https://github.com/vivekweb2013/gitnoter) An open source, self hosted, markdown-based note taking webapp.
+- 🔭 I’m currently working on [GitNoter](https://github.com/vivekweb2013/gitnoter).
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on [GitNoter Issues](https://github.com/vivekweb2013/gitnoter/issues)
 - 🤔 I’m looking for help with [GitNoter Issues](https://github.com/vivekweb2013/gitnoter/issues)
