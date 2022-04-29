@@ -1,13 +1,18 @@
 ### Hi there 👋, my name is Vivek
+
+<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
+
 #### I am a Full Stack Software Developer
 
-Skills: GOLANG / REACT / JS / HTML / CSS
+
+Skills: **GOLANG / REACT / JS / HTML / CSS**
+
 
 - 🔭 I’m currently working on [GitNoter](https://github.com/vivekweb2013/gitnoter).
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning **Golang**
 - 👯 I’m looking to collaborate on [GitNoter Issues](https://github.com/vivekweb2013/gitnoter/issues)
 - 🤔 I’m looking for help with [GitNoter Issues](https://github.com/vivekweb2013/gitnoter/issues)
-- 💬 Ask me about Golang, ReactJS, Docker, Kubernetes, Helm, CI/CD
+- 💬 Ask me about **Golang, ReactJS, Docker, Kubernetes, Helm**
 - 📫 How to reach me: https://twitter.com/vivekweb2013
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can play guitar!
