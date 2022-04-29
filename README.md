@@ -1,25 +1,20 @@
-### Hi there 👋, my name is Vivek
+## Hi 👋, my name is Vivek
 
 <img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
-#### I am a Full Stack Software Developer
-
-
-Skills: **GOLANG / REACT / JS / HTML / CSS**
-
+##### I am a full stack developer with 7+ years of industry experience building web applications.
 
 - 🔭 I’m currently working on [GitNoter](https://github.com/vivekweb2013/gitnoter).
 - 🌱 I’m currently learning **Golang**
-- 👯 I’m looking to collaborate on [GitNoter Issues](https://github.com/vivekweb2013/gitnoter/issues)
 - 🤔 I’m looking for help with [GitNoter Issues](https://github.com/vivekweb2013/gitnoter/issues)
 - 💬 Ask me about **Golang, ReactJS, Docker, Kubernetes, Helm**
 - 📫 How to reach me: https://twitter.com/vivekweb2013
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I can play guitar!
+- ⚡ Fun fact: I paint at times!
 
-
+##### Online Presence
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vivekweb2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vivekweb2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vivekweb2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/814548)  
-
+---
 <div>
   <a href="https://github.com/vivekweb2013">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekweb2013&show_icons=true&include_all_commits=true&count_private=true"/>
