@@ -5,7 +5,7 @@
 ##### I am a full stack developer with 7+ years of industry experience building web applications.
 
 - 🔭 I’m currently working on [GitNoter](https://github.com/vivekweb2013/gitnoter).
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **RegEx**
 - 🤔 I’m looking for help with [GitNoter Issues](https://github.com/vivekweb2013/gitnoter/issues)
 - 💬 Ask me about **Golang, ReactJS, Docker, Kubernetes, Helm**
 - 📫 How to reach me: vivekweb2013@gmail.com
